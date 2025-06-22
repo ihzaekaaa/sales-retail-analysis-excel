@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analysis – Excel Dashboard Portfolio
+# 📊 Retail Sales Analysis – Excel Portfolio
 
 ## 📌 Project Description
 This project presents a retail sales analysis using Microsoft Excel.  
