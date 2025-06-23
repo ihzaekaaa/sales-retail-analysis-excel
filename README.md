@@ -8,7 +8,7 @@ The purpose of this project is to demonstrate data analysis skills using Excel, 
 
 ---
 
-## 🧾 File Overview
+##  File Overview
 - `sales_retail.xlsx` – Contains raw data, working sheet, pivot tables, interactive dashboard, and written insights.
 - `sales_retail_dashboard.pdf` – A PDF version of the dashboard for easier viewing.
 - `sales_retail_insight.pdf` – A PDF version of the insight for easier viewing.
@@ -16,7 +16,14 @@ The purpose of this project is to demonstrate data analysis skills using Excel, 
 
 ---
 
-## 🧰 Tools & Features Used
+## 📌 Key Insights
+- **GG Filter 12s** was the top-performing product in terms of **revenue**, generating approximately **Rp 27.694.500**.
+- **Transaction volume peaked in the morning** during June, July, and September, while in **August**, most transactions occurred in the **afternoon**.
+- The **cigarette category** dominated both **sales volume** and **revenue**, with **8,858 items sold** and total earnings of **Rp 167.538.000**.
+
+---
+
+## Tools & Features Used
 - Microsoft Excel 2013
 - Pivot Tables
 - Bar, Line, and Pie Charts
